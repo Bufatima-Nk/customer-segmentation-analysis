@@ -44,15 +44,15 @@ To run this project, follow these steps:
 
 2. Install the required libraries by running the following command:
 
-pip install pandas numpy matplotlib seaborn scikit-learn plotly dash jupyter-dash
+   pip install pandas numpy matplotlib seaborn scikit-learn plotly dash jupyter-dash
 
 3. Clone the project repository from GitHub:
 
-git clone https://github.com/Bufatima-Nk/customer-segmentation-analysis.git
+   git clone https://github.com/Bufatima-Nk/customer-segmentation-analysis.git
 
 4. Navigate to the project directory:
 
-cd customer-segmentation-analysis
+   cd customer-segmentation-analysis
 
 5. Open and run the Jupyter Notebook `customer_segmentation.ipynb` to execute the analysis.
 
