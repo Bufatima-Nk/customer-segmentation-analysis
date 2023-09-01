@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on Customer Segmentation Analysis using clustering and unsupervised learning techniques. By examining the "Wholesale customers" dataset, we aim to extract valuable insights into annual spending trends across various product categories.
+This project focuses on Customer Segmentation Analysis using clustering and unsupervised learning techniques. By examining the "Wholesale customers" dataset, we aim to extract valuable insights into annual spending trends across various product categories.Additionally, I have developed an interactive dashboard with Dash, enabling users to explore the results and adjust clustering parameters for a more tailored analysis.
 
 ## Project Goals
 
